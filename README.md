@@ -1,5 +1,1 @@
-- 👋 Hi, I go by Bear
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning HTML/CSS # JavaScript
-- 😄 Pronouns: He/Him
-
+I go by Bear, I'm currently going through TOP and I'm excited to learn!
